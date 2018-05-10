@@ -1,5 +1,5 @@
 """
-    Extract .png files to .pck files [Some files maybe corrupted, can't fix that /shrug]
+    Extract .png files from .pck files [Some files maybe corrupted, can't fix that /shrug]
 """
 
 import os
